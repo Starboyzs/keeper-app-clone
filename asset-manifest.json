@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/keeper-app-clone/static/css/main.66231167.css",
+    "main.js": "/keeper-app-clone/static/js/main.25d17c08.js",
+    "index.html": "/keeper-app-clone/index.html",
+    "main.66231167.css.map": "/keeper-app-clone/static/css/main.66231167.css.map",
+    "main.25d17c08.js.map": "/keeper-app-clone/static/js/main.25d17c08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66231167.css",
+    "static/js/main.25d17c08.js"
+  ]
+}
